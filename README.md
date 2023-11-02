@@ -3,3 +3,4 @@
 # link example address
 * https://github.com/ddd-crew/aggregate-design-canvas
 * https://github.com/qu3vipon/python-ddd
+* https://www.cosmicpython.com/book/chapter_07_aggregate.html
