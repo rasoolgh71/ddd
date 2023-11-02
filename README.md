@@ -6,3 +6,4 @@
 * https://www.cosmicpython.com/book/chapter_07_aggregate.html
 * https://eventsourcing.readthedocs.io/en/stable/topics/domain.html
 * https://github.com/pgorecki/python-ddd
+* https://refactoring.guru/design-patterns
